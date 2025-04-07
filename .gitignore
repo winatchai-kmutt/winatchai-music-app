@@ -1,0 +1,43 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# iOS related
+ios/Flutter/.generated/
+ios/Pods/
+ios/Podfile.lock
+ios/Runner.xcworkspace/
+
+# Android related
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/build/
+.gradle/
+local.properties
+
+# VS Code related
+.vscode/
+
+# IntelliJ related
+.idea/
+
+# macOS related
+macos/Flutter/.generated/
+
+# Windows related
+windows/Flutter/.generated/
+
+# Linux related
+linux/Flutter/.generated/
+
+# Other
+*.log
+*.class
+*.swp
