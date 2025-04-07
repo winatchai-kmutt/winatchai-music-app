@@ -1,43 +1,75 @@
-# Flutter/Dart/Pub related
+# Dart & Flutter
 .dart_tool/
-.flutter-plugins
-.flutter-plugins-dependencies
 .packages
 .pub-cache/
-.pub/
 build/
+flutter_*.png
 
-# iOS related
-ios/Flutter/.generated/
-ios/Pods/
-ios/Podfile.lock
-ios/Runner.xcworkspace/
+# IDEs
+.idea/
+.vscode/
+*.iml
 
-# Android related
+# Flutter Generated Plugin Registrant
+lib/firebase_options.dart
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins-dependencies
+.flutter-plugins
+.generated/
+.melos_tool/
+.metadata
+
+# Firebase
+**/firebase.json
+**/firebase-debug.log
+**/.firebaserc
+**/.firebase/
+
+# Android
 android/.gradle/
-android/app/debug/
-android/app/profile/
-android/app/release/
-android/build/
-.gradle/
+android/app/build/
+android/key.properties
+*.keystore
 local.properties
 
-# VS Code related
-.vscode/
+# iOS & macOS
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/App.framework
+ios/Flutter/ephemeral/
+macos/Pods/
+macos/Runner.xcworkspace/
+macos/Flutter/ephemeral/
 
-# IntelliJ related
-.idea/
+# Web
+web/firebase-messaging-sw.js
 
-# macOS related
-macos/Flutter/.generated/
+# Linux
+linux/flutter/ephemeral/
 
-# Windows related
-windows/Flutter/.generated/
-
-# Linux related
-linux/Flutter/.generated/
+# Windows
+windows/flutter/ephemeral/
 
 # Other
+.env
 *.log
-*.class
+*.lock
+*.tmp
+*.bak
 *.swp
+
+# Firebase Emulator files (if used)
+firebase/emu-data/
+firebase-debug.log
+
+# Firebase Functions (Node.js)
+functions/node_modules/
+functions/lib/
+functions/.env
+functions/.firebase/
+
