@@ -33,7 +33,7 @@ Whether you're on **mobile or web**, this app brings your favorite tracks togeth
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/winatchai-kmutt/music-app.git
+git clone https://github.com/winatchai-kmutt/winatchai-music-app.git
 cd music-app
 
 # 2. Get dependencies
