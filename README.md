@@ -1,17 +1,24 @@
 # 🎵 Music Playlist App  
-A sleek and scalable Flutter music app for Web, iOS, and Android.  
-Built with ❤️ using **Clean Architecture**, **Bloc**, and **GoRouter**.
+A scalable Flutter music app for Web, iOS, and Android.  
 
-<img src="https://res.cloudinary.com/dwumutkiv/image/upload/v1744040316/Screenshot_2568-04-07_at_22.30.32_vt5bsu.png" height="600" />
+<div align="center">
+  <img src="https://res.cloudinary.com/dwumutkiv/image/upload/v1744040316/Screenshot_2568-04-07_at_22.30.32_vt5bsu.png" height="500" />
+</div>
 
-[🚀 Live Demo](https://winatchai-music-app.web.app/my-playlist)
+<br/>
+
+<div align="center">
+  <a href="https://winatchai-music-app.web.app/my-playlist" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-Click%20to%20Try!-ff4c60?style=for-the-badge&logo=flutter&logoColor=white" alt="Live Demo">
+  </a>
+</div>
 
 ---
 
 ## ⚡ About the App
 
 Vibe with your own music playlist across platforms.  
-Whether you're on **mobile or web**, this app brings your favorite tracks together in one clean, beautiful UI.
+Whether you're on **mobile or web**
 
 **Works on**:  
 ✅ Web  
